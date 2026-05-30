@@ -26,15 +26,15 @@
 ```
 **MAIN FEATURES OF FROZEN SETS**
 
-**Immutable** :**You cannot add or remove elements.** ​
-
-**Stores only unique value** : Duplicate values are automatically removed.​
-
-**Unordered collection**​
-
-**Hashable** : It can be used as dictionary keys or elements inside another set.​
-
-Supports set operation​
+            **Immutable** :**You cannot add or remove elements.** ​
+            
+            **Stores only unique value** : Duplicate values are automatically removed.​
+            
+            **Unordered collection**​
+            
+            **Hashable** : It can be used as dictionary keys or elements inside another set.​
+            
+            Supports set operation​
 
 
 **Advantages of frozen sets​**
