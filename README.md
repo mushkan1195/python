@@ -1,22 +1,18 @@
- **What is frozen sets?**​
+**What is frozen sets?** ​
 
-A frozen sets is an immutable version of
-a sets in python set.​
+A frozen sets is an immutable version of a sets in python set.​
 
 It stores unique elements.​
 
-Elements cannot be modified after
-creation.​
+Elements cannot be modified after creation.​
 
-It supports most set operations like
-union, intersection, etc.​
+It supports most set operations like **union**, **intersection**, etc.​
 
-syntax:​
-
+```syntax:​
             Frozenset(iterable)​
   Syntax ​
 
-Frozenset(iterable)​
+    Frozenset(iterable)​```
 
 Example :​
 
